@@ -1,0 +1,7 @@
+.container{
+  min-height:75vh; 
+  background-color:#9daaf2;
+  margin-top:40px;
+  display:flex;
+  /* flex-direction: row-reverse; */
+}

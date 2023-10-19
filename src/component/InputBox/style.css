@@ -1,0 +1,26 @@
+.input-div{
+  padding:30px;
+  border: 1px dotted black;
+  display:flex;
+  justify-content: center;
+}
+
+.input-box{
+  padding:5px 10px;
+  margin-right:5px;
+}
+
+.submit{
+  margin-right:5px;
+  border-radius:0px 70px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #F4DB7D;
+  color:#9DAAF2;
+}
+
+.reset-button{
+  border-radius: 0px 70px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #F4DB7D;
+  color:#9DAAF2;
+}

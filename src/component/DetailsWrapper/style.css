@@ -1,0 +1,19 @@
+.details-wrapper{
+  /* background-color:#f4db7d; */
+  position: fixed;
+  top:350px;
+  bottom:0;
+  right:20px;
+  left:800px;
+  z-index:100;
+  flex: 4;
+}
+
+.feature-styling{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #f4db7d;
+}
+
+.details-image{
+  height:200px;
+}

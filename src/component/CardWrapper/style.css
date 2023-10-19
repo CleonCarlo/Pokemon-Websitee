@@ -1,0 +1,8 @@
+.wrapper-styling{
+   width:700px;
+  margin-left:0px;
+  order:1; 
+  display: flex; 
+  flex-wrap:wrap;
+  border-right:2px solid grey;
+}
